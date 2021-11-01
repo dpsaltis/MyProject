@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// this is dev
+
 void func(double a[])
 {
   a[0]=2.0;
