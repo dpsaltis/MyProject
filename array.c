@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// this is dev
+// see hwo does the array look like
 
 void func(double a[])
 {
