@@ -9,6 +9,11 @@ void func(double a[])
 
 }
 
+void func2(double a[])
+{
+  a[0] = 3.0;
+  return;
+}
 
 int main(void)
 {
